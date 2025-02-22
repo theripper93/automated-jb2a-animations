@@ -32,6 +32,8 @@
             "OFF": "Disabilitato",
             "settingDisableAutoRec": "Disattiva Riconoscimento Automatico",
             "settingDisableAutoRecHint": "Solo gli oggetti configurati su misura riprodurranno le animazioni",
+            "uiAnimation": "Abilita Animazione Interfaccia Utente",
+            "uiAnimationHint": "Per prestazioni più rapide nell'Interfaccia Utente di Automated Animations puoi disattivare l'animazione dell'interfaccia utente.",
             "globaldelay_name": "Ritardo Globale",
             "globaldelay_hint": "Ritarda l'inizio di tutte le animazioni in millisecondi",
             "s3Name": "Posizione Risorse JB2A",
